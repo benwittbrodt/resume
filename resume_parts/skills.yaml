@@ -1,0 +1,40 @@
+software:
+  - name: Python
+    keywords:
+      - Pandas
+      - Automation
+
+  - name: SQL
+    keywords:
+      - Redshift
+      - Postgres
+      - MySQL
+
+  - name: API Consumption
+    keywords:
+      - SalesForce
+
+  - name: Data Visualization
+    keywords:
+      - Power BI
+      - Tableau
+
+  - name: Salesforce
+    keywords:
+
+professional:
+  - name: Team Leadership
+    keywords:
+      - Mentorship
+
+  - name: Data and Statistical Analysis
+    keywords:
+
+  - name: Onboarding and Training
+    keywords:
+
+  - name: Problem Solving
+    keywords:
+
+  - name: Project Management
+    keywords:

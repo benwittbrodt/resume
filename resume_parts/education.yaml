@@ -1,0 +1,14 @@
+education:
+  - institution: Michigan Technological University
+    url: "https://www.mtu.edu/"
+    major: Material Science and Engineering
+    degree_level: M.S.
+    startdate: 2013-08
+    enddate: 2014-12
+
+  - institution: Michigan Technological University
+    url: "https://www.mtu.edu/"
+    major: Material Science and Engineering
+    degree_level: B.S.
+    startdate: "2008-08"
+    enddate: "2013-05"

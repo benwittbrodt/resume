@@ -1,0 +1,46 @@
+work:
+  - company: Continental Tire
+    location: "Charlotte, North Carolina"
+    description: Automotive Supplier
+    url: "https://www.continental-tires.com/us/en/b2b/truck/"
+
+  - position: Strategic Account Performance Analyst
+
+    startdate: 2017-07
+    enddate: 2021-05
+    summary: ""
+    highlights:
+      - >-
+        Created and maintained an online CRM system (php, MySQL, bootstrap) for
+        tracking product performance metrics and customer visits across North
+        America. Reported and presented data regularly to senior management and
+        analyzed data to identify trends in the market
+      - >-
+        Conducted extensive analysis of product performance at customer sites
+        and provided recommendations for improved strategies resulting in
+        optimized performance outcomes
+      - >-
+        Managed onboarding program for all new field engineers and created
+        external training program for on-site customer training
+      - >-
+        Developed product performance measurement protocols and data quality
+        standards to enhance repeatability and accuracy of results from product
+        testing
+
+  - position: Tire Development Engineer
+
+    startdate: 2015-04
+    enddate: 2017-06
+    summary: ""
+    highlights:
+      - >-
+        Lead multiple parallel product development projects with budgets
+        exceeding $1 million and consisting of diverse multinational and
+        cross-functional teams
+      - >-
+        Doubled essential performance criteria and reduced total cost of
+        production for key product line ahead of schedule while under
+        executive-level oversight
+      - >-
+        Presented product improvement plans and features to internal and
+        external stakeholders from entry level techs to executive leadership
