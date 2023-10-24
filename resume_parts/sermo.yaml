@@ -1,28 +1,25 @@
 work:
   - company: Sermo
-    location: 'Remote, Illinois'
+    location: "Remote, Illinois"
     description: Market Research / HCP Social Media
-    url: 'https://www.sermo.com/'
+    url: "https://www.sermo.com/"
     summary: ""
 
-  - position: 'Team Lead, Insights & Analytics'
+  - position: "Team Lead, Insights & Analytics"
     startdate: 2023-04
-    enddate: ''
+    enddate: ""
     highlights:
       - >-
-        Expand scope and capabilities of Reporting and Automation team by growing team
-        and training new memebers
-      - >- 
-        Oversee delivery of 1000+ reports per year and build QA process to timely verify
-        data accuracy and consistency
-      - >- 
+        Expand scope and capabilities of Reporting and Automation team by growing team and training new memebers
+      - >-
+        Oversee delivery of 1000+ reports per year and build QA process to timely verify data accuracy and consistency
+      - >-
         Integrate data science DBT pipelines into standard reporting datasets
 
-
-  - position: 'Senior Associate, Insights & Analytics' 
+  - position: "Senior Associate, Insights & Analytics"
     startdate: 2022-04
     enddate: 2023-04
-    summary: ''
+    summary: ""
     highlights:
       - >-
         Build and manage team of reporting analysts including creating
@@ -48,6 +45,11 @@ work:
   - position: Business Analytics Associate
     startdate: 2021-05
     enddate: 2022-04
-    summary: ''
-    highlights: 
-      - ''
+    summary: ""
+    highlights:
+      - >-
+        Create standard report deliverables in excel for advertising clients
+      - >-
+        Collaborate with client success team to integrate client feedback into report templates
+      - >-
+        Standardize reporting data sets in SQL and implement query version control in git
